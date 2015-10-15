@@ -1,0 +1,14 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+2015-07-31 12:40:04 127.0.0.1:{"merchantReference":"2015073100000151","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"REFUSED","pspReference":"8514383176046129","merchantSig":"T+lm55l+Vimxnk7RJM2KBGl1tUI="}
+2015-07-31 12:40:04 127.0.0.1:{"order_code":"2015073100000151","order_status":4}
+2015-07-31 12:46:36 127.0.0.1:{"merchantReference":"2015073100000156","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"REFUSED","pspReference":"8514383179968311","merchantSig":"jxwvmS3eDen7N4rBRzJdV68wINU="}
+2015-07-31 12:46:36 127.0.0.1:{"order_code":"2015073100000156","order_status":4}
+2015-07-31 12:50:14 127.0.0.1:{"merchantReference":"2015073100000158","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"REFUSED","pspReference":"8514383182149677","merchantSig":"a1oeecE6DDFrYtMcIlE5rYAvXXA="}
+2015-07-31 12:50:43 127.0.0.1:{"merchantReference":"2015073100000158","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"REFUSED","pspReference":"8514383182149677","merchantSig":"a1oeecE6DDFrYtMcIlE5rYAvXXA="}
+2015-07-31 12:51:43 127.0.0.1:{"merchantReference":"2015073100000158","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"REFUSED","pspReference":"8514383182149677","merchantSig":"a1oeecE6DDFrYtMcIlE5rYAvXXA="}
+2015-07-31 13:20:29 127.0.0.1:{"merchantReference":"2015073100000158","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"REFUSED","pspReference":"8514383182149677","merchantSig":"a1oeecE6DDFrYtMcIlE5rYAvXXA="}
+2015-07-31 13:20:29 127.0.0.1:{"order_code":"2015073100000158","order_status":4}
+2015-07-31 13:21:24 127.0.0.1:{"merchantReference":"2015073100000159","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"REFUSED","pspReference":"8514383200841131","merchantSig":"4qPe9PZvJhyfVcgyY1pMGAX8OpM="}
+2015-07-31 13:21:24 127.0.0.1:{"order_code":"2015073100000159","order_status":4}
+2015-07-31 20:03:18 127.0.0.1:{"order_code":false,"order_status":4}

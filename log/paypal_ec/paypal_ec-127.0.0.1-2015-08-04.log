@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+2015-08-04 21:01:40 127.0.0.1:L_NAME0=Total&L_AMT0=305.76&L_QTY0=1&ITEMAMT=305.76&AMT=305.76&SHIPPINGAMT=0&TAXAMT=0&LOCALECODE=en_US&PAYMENTACTION=Sale&ReturnUrl=http%3A%2F%2Fwww.v3.eachbuyer.com%2Fplace_order%2Fpaypal_ec&CANCELURL=http%3A%2F%2Fwww.v3.eachbuyer.com%2Fcart&CURRENCYCODE=RUB&ButtonSource=EACHBUYER_cart_EC_C2&USER=727918519-facilitator_api1.qq.com&PWD=1392201103&SIGNATURE=AFcWxV21C7fd0v3bYYYRCpSSRl31AZV3viuVWOPtwFTi1SJtLwqZpk6W&version=72&METHOD=SetExpressCheckout
+2015-08-04 21:04:52 127.0.0.1:<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator,
+ ppmtps@paypal.com and inform them of the time the error occurred,
+and anything you might have done that may have
+caused the error.</p>
+<p>More information about this error may be available
+in the server error log.</p>
+<hr>
+<address>Apache Server at <a href="mailto:ppmtps@paypal.com">api-3t.sandbox.paypal.com</a> Port 443</address>
+</body></html>
+
+2015-08-04 21:04:53 127.0.0.1:L_NAME0=Total&L_AMT0=305.76&L_QTY0=1&ITEMAMT=305.76&AMT=305.76&SHIPPINGAMT=0&TAXAMT=0&LOCALECODE=en_US&PAYMENTACTION=Sale&ReturnUrl=http%3A%2F%2Fwww.v3.eachbuyer.com%2Fplace_order%2Fpaypal_ec&CANCELURL=http%3A%2F%2Fwww.v3.eachbuyer.com%2Fcart&CURRENCYCODE=RUB&ButtonSource=EACHBUYER_cart_EC_C2&USER=727918519-facilitator_api1.qq.com&PWD=1392201103&SIGNATURE=AFcWxV21C7fd0v3bYYYRCpSSRl31AZV3viuVWOPtwFTi1SJtLwqZpk6W&version=72&METHOD=SetExpressCheckout
+2015-08-04 21:09:39 127.0.0.1:L_NAME0=Total&L_AMT0=305.76&L_QTY0=1&ITEMAMT=305.76&AMT=305.76&SHIPPINGAMT=0&TAXAMT=0&LOCALECODE=en_US&PAYMENTACTION=Sale&ReturnUrl=http%3A%2F%2Fwww.v3.eachbuyer.com%2Fplace_order%2Fpaypal_ec&CANCELURL=http%3A%2F%2Fwww.v3.eachbuyer.com%2Fcart&CURRENCYCODE=RUB&ButtonSource=EACHBUYER_cart_EC_C2&USER=727918519-facilitator_api1.qq.com&PWD=1392201103&SIGNATURE=AFcWxV21C7fd0v3bYYYRCpSSRl31AZV3viuVWOPtwFTi1SJtLwqZpk6W&version=72&METHOD=SetExpressCheckout
+2015-08-04 21:16:09 127.0.0.1:L_NAME0=Total&L_AMT0=305.76&L_QTY0=1&ITEMAMT=305.76&AMT=305.76&SHIPPINGAMT=0&TAXAMT=0&LOCALECODE=en_US&PAYMENTACTION=Sale&ReturnUrl=http%3A%2F%2Fwww.v3.eachbuyer.com%2Fplace_order%2Fpaypal_ec&CANCELURL=http%3A%2F%2Fwww.v3.eachbuyer.com%2Fcart&CURRENCYCODE=RUB&ButtonSource=EACHBUYER_cart_EC_C2&USER=727918519-facilitator_api1.qq.com&PWD=1392201103&SIGNATURE=AFcWxV21C7fd0v3bYYYRCpSSRl31AZV3viuVWOPtwFTi1SJtLwqZpk6W&version=72&METHOD=SetExpressCheckout

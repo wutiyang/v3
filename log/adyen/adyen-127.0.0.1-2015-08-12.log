@@ -1,0 +1,4 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+2015-08-12 19:30:22 127.0.0.1:{"merchantReference":"2015081200000531","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514393790223558","merchantSig":"F7SYf0EZWwXqJl5pfgz\/mzMXQsQ="}
+2015-08-12 19:30:31 127.0.0.1:{"order_code":"2015081200000531","order_status":3}

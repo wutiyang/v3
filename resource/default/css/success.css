@@ -1,0 +1,64 @@
+.share-list a{display: inline-block;background: url(../images/product/icon.png) no-repeat;}
+.line{height:1px; line-height: 1px; background-color: #d9d9d9;margin:20px 0px;}
+.main-left,
+.main-right{margin-top:20px;}
+.main-left{width: 568px;min-height:595px;padding:0px 10px; border: 1px solid #d9d9d9; font-size: 14px;background-color: #f5f5f5; float:left;}
+.main-right{width:590px; float: right;}
+h1{margin-top:20px;font-size:24px; color: #333; line-height: 20px}
+.order-info{margin-top: 12px;}
+.order-info td{padding-right: 14px; padding-top: 8px;}
+.order-info .order-num{color: #fc8100}
+.check-status{margin-top:15px;}
+.check-status a{text-decoration: underline;}
+.main-left h2{font-size: 16px;line-height: 18px;}
+.payment-delay h2,
+.payment-failed h2,
+.pay-success h2,
+.delay-tit{color:#f32f39;}
+.bank-table{color: #666; background-color: #e4e4e4; padding:3px 0px;width:100%;margin-top:20px;}
+.bank-table td{padding: 7px 0px}
+.bank-table .bank-name{padding:0px 20px 0px 10px;font-weight: bold;}
+.bank-table td.frist{padding-top: 10px}
+.bank-table td.last{padding-bottom: 10px}
+.please-note{margin-top: 20px; color: #999;}
+.btn-space{margin-top:20px;}
+.btn-space a.icon-view:visited,.btn-space a.icon-view:active{background:#e5e5e5;font-weight: normal;color:#333;}
+.btn-space a{margin-right: 10px;display:inline-block;}
+/*右侧*/
+.show{height:75px;padding-top:14px;}
+.share{line-height:18px;font-size:14px;color:#666;}
+
+.main-right ul{margin-top:20px;}
+.main-right li{padding:20px 0;border-top:1px solid #d9d9d9;overflow: hidden;}
+.main-right li img{width:118px;height:118px;border:1px solid #fff;float:left;}
+.main-right li img:hover{border:1px solid #dfdfdf;box-shadow: 0 3px 5px #d9d9d9;}
+.share-info{width:455px;height:120px;margin-left:10px;float:left;padding-right: 5px;position: relative;}
+.share-info p{line-height:18px;font-size:14px;}
+.share-info .orig{font-size:12px;color:#999;}
+.share-info .discount{color:#fc8100;font-weight:bold;}
+.third{position: relative;height:24px;}
+.share-info .share-list{font-size:14px;line-height:24px;padding-top:21px;text-align: right;}
+.share-info .share-list span{vertical-align: super;}
+.share-info .share-list a{width: 25px;height: 24px; margin-left:8px;}
+.share-list .icon-facebook{ background-position: -3px -3px;}
+.share-list .icon-twitter{ background-position: -37px -3px;}
+.share-list .icon-plusone{ background-position: -71px -3px;}
+.share-list .icon-email{width: 25px;height: 25px;background-position: -104px -3px;}
+.share-list .icon-facebook:hover{ background-position: -138px -3px;}
+.share-list .icon-twitter:hover{ background-position: -172px -3px;}
+.share-list .icon-plusone:hover{ background-position: -206px -3px;}
+.share-list .icon-email:hover{background-position: -239px -3px;}
+
+/*支付延时、未成功、成功*/
+.payment-delay,.payment-failed,.pay-success{display: none;}
+.delay-tit,.delay-info,.delay-note,.success-info,.success-mas{font-size:14px;}
+.delay-tit{line-height:21px;padding-top:14px;}
+.delay-info{line-height:18px;padding-top:10px;padding-bottom:13px;color:#333;}
+.delay-info .error{font-weight:bold;color:#f32f39;display:block;}
+.delay-info a,.success-mas a{border-bottom:1px solid #a6a6a6;color:#333;}
+.delay-info a:hover,.success-mas a:hover{text-decoration: none;}
+.delay-note{color:#999;padding-bottom:23px;}
+.success-info{padding:20px 0;}
+.success-mas{padding-bottom:15px;}
+.success-mas p{line-height:18px;}
+.success-mas .look{color:#f32f39;}

@@ -1,0 +1,83 @@
+.pager{margin:20px 0;display:block;font-family:Verdana,Tahoma,Arial, Helvetica, sans-serif;overflow:hidden;display:inline-block;zoom:1;*display:inline;}
+.pager a{text-decoration:none;display:inline-block;}
+/*
+.pager img,.pager input,.pager select,.pager p a{vertical-align:top;}*/
+.pager .pageSizer,.pager .quickPager{font-family:tahoma;}
+.pager {display:block;border:none;text-transform:uppercase;font-size:10px;padding:0; overflow:hidden;zoom:1;}
+.pager a,.pager a.page-number{font-size: 9pt;margin:0 5px 0 0;padding:3px 4px;}
+.pager a.link,.pager a.page-number{background:#fff;cursor:pointer;color:#7E7E7E;text-align:center;border:1px solid #7E7E7E;}
+.pager a.page-number{width:16px;}
+.pager a.link:hover,.pager a.page-number:hover {border-color:#000; color:#000}
+.pager a.pgCurrent,.pager a.pgCurrent:hover {cursor:default;background-color:#4690CD; border: 1px solid #4690CD; color: #FFFFFF;font-weight: bold;}
+.pager #chatpage{margin-top:1px;border:1px solid #F57A04;overflow:hidden;height:20px; margin:0 3px;}
+.pager #chatpage .pagenum{border:0 none;margin-left:2px;padding:0;line-height:20px; height:20px; display:inline-block;}
+.pager #chatpage .enter{background:#F57A04 url(../../../common/plug/tvb.pager/pagenum.gif) no-repeat scroll 0 0; color:#FFF; font-weight:900;text-align:center;
+text-decoration:none;background-position:-27px -66px;border:0;cursor:pointer;height:15px;width:20px; line-height:12px;*line-height:8px;
+margin:0px 0 0px 0px;display:inline-block;}
+.pager .quickPager{padding:0px; margin:0 10px 0 30px;font-size:12px;}
+.pager span,.pager .fl{height:23px;display:inline-block;}
+.pager .quickPager span{line-height:20px;}
+.pager img,.pager input,.pager select,.pager a,.pager span{vertical-align:top;}
+
+.pager a.first-empty,
+.pager a.pre-empty,
+.pager a.next-empty,
+.pager a.last-empty,
+.pager a.first-empty:hover,
+.pager a.pre-empty:hover,
+.pager a.next-empty:hover,
+.pager a.last-empty:hover{border:1px solid #CCCCCC; color:#ccc;cursor: default;}
+
+
+/*style1*/
+/*.pager.style1 ul li{margin:0 3px 0 0;}
+.pager.style1 ul li.page-number{border:none;padding:0 7px;}
+.pager.style1 ul li.page-number.pgCurrent{background:#F97C05;}
+.pager.style1 ul li.pgNext{text-decoration:none;padding:0px;border:none;background:transparent url(pagenum2.gif) no-repeat scroll left center;width:50px;height:21px;}
+.pager.style1 ul li.pgNext.first,.pager.style1 ul li.last{width:45px;}
+.pager.style1 ul li.first{background-position:-9px -23px;}
+.pager.style1 ul li.first-empty{background-position:-9px -55px;}
+.pager.style1 ul li.pre{background-position:-9px -161px;}
+.pager.style1 ul li.pre-empty{background-position:-9px -202px;}
+.pager.style1 ul li.next{background-position:-9px -237px;}
+.pager.style1 ul li.next-empty{background-position:-9px -272px;}
+.pager.style1 ul li.last{background-position:-9px -88px;}
+.pager.style1 ul li.last-empty{background-position:-9px -119px;}
+.pager.style1 ul li.text #chatpage{margin:0px;border:1px solid #F97C05;float:left;overflow:hidden;padding:1px;height:15px;line-height:15px;}
+.pager.style1 ul li.text #chatpage .pagenum{vertical-align:top;border:0 none;padding-left:2px;font-size:12px;height:15px;line-height:15px;}
+.pager.style1 ul li.text #chatpage .enter{background:transparent url(pagenum2.gif) no-repeat scroll 0 0;background-position:-12px -310px;border:medium none;cursor:pointer;height:15px;margin:0px;width:18px;display:block;}*/
+/*style2*/
+/*.pager.style2 ul li{margin:0 3px 0 0;}
+.pager.style2 ul li.page-number{border:none;padding:0 7px;}
+.pager.style2 ul li.page-number.pgCurrent{background:#F97C05;}
+.pager.style2 ul li.pgNext{text-decoration:none;padding:0px;border:none;background:transparent url(pagenum2.gif) no-repeat;width:50px;height:21px;}
+.pager.style2 ul li.pgNext.first,.pager.style1 ul li.last{width:45px;}
+.pager.style2 ul li.first{background-position:-9px -23px;}
+.pager.style2 ul li.first-empty{background-position:-9px -55px;}
+.pager.style2 ul li.pre{background-position:-9px -161px;}
+.pager.style2 ul li.pre-empty{background-position:-9px -202px;}
+.pager.style2 ul li.next{background-position:-9px -237px;}
+.pager.style2 ul li.next-empty{background-position:-9px -272px;}
+.pager.style2 ul li.last{background-position:-9px -88px;}
+.pager.style2 ul li.last-empty{background-position:-9px -119px;}
+.pager.style2 ul li.text #chatpage{margin:0px;border:1px solid #F97C05;float:left;overflow:hidden;padding:1px;height:15px;line-height:15px;}
+.pager.style2 ul li.text #chatpage .pagenum{vertical-align:top;border:0 none;padding-left:2px;font-size:12px;height:15px;line-height:15px;}
+.pager.style2 ul li.text #chatpage .enter{background:transparent url(pagenum2.gif) no-repeat scroll 0 0;background-position:-12px -310px;border:medium none;cursor:pointer;height:15px;margin:0px;width:18px;display:block;}
+.pager.style2 .quickPager{margin-left:5px;}
+.pager.style2 span.qpages li.text{display:none;}
+.pager.style2 span.qpages li.text{display:none;}
+.pager.style2 ul li.page-number-last{display:none;}*/
+
+/*style3*/
+/*.pager.style3 ul li{margin:0 3px 0 0;}
+.pager.style3 ul li.link:hover {border:1px solid #F97C05;}
+.pager.style3 ul li.pgNext{text-decoration:none;padding:0px;background:#fff url(pagenum2.gif) no-repeat;width:50px;height:21px;}
+.pager.style3 ul li.pre{width:18px;background-position:-5px -405px;}
+.pager.style3 ul li.pre-empty{background-position:-5px -463px;}
+.pager.style3 ul li.next{background-position:-9px -237px;}
+.pager.style3 ul li.next-empty{background-position:-9px -272px;}
+.pager.style3 ul li.recordCount{border:none;}
+.pager.style3 ul li.first-empty:hover,
+.pager.style3 ul li.pre-empty:hover,
+.pager.style3 ul li.next-empty:hover,
+.pager.style3 ul li.last-empty:hover{border:1px solid #CCCCCC;}*/

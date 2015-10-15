@@ -1,0 +1,21 @@
+.list-tit{position: relative;width:1200px;height:27px;margin-top:13px;margin-bottom:14px;border-bottom:2px solid #444;}
+.list-tab{position: absolute;left:20%;}
+.list-tab li{float:left;height:27px;line-height:27px;padding:0 8px;font-size:14px;}
+.list-tab li:hover{background:#f4f4f4;border-radius:5px 5px 0 0;}
+.list-tab li.on{background:#333;border-radius:5px 5px 0 0;color:#fff;}
+
+.list-main{display: none;}
+.list-info{overflow: hidden;margin-left:-4px;}
+.list-info li{float:left;width:288px;line-height:23px;padding-left:10px;margin-left:3px;margin-bottom:2px;}
+.list-info li:hover{background:#f3f3f3;}
+.list-info li a{line-height:18px;text-decoration: none;display:inline-block;}
+
+.show-pager{text-align: center;margin-bottom:40px;}
+.main .content{ width:980px;float: none;margin:10px auto;}
+
+
+
+
+
+
+

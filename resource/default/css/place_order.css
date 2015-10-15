@@ -1,0 +1,204 @@
+.ship-tit i,
+.ads-user i{display: inline-block;background: url(../images/common/icon.png) no-repeat;}
+
+.dis-ship i,
+.tips i{width:14px;height:14px;/display:inline-block;background:url(../images/wish-list/icon-sns.png) no-repeat;background-position: -62px -34px;position: absolute;left: 0;top: 2px;}
+
+.checkout{width:1000px;margin:0 auto;}
+.shipping{padding:20px 0;border-bottom: 1px solid #d9d9d9;}
+.ship-cart{border-bottom: none;}
+.ship-tit{line-height:27px;padding-bottom:10px;padding-left:38px;font-size: 18px;position: relative;overflow:hidden;}
+.ship-tit i{position: absolute;width:28px;width:29px\9;height:27px;height:28px\9;left:0;top:0;}
+.ship-tit span{float:left;}
+.ship-ads .ship-tit i{background-position:-144px -64px;background-position:-143px -64px\9;}
+.options .ship-tit i{background-position:-144px -95px;background-position:-143px -95px\9;}
+.payment .ship-tit i{background-position:-144px -126px;background-position:-143px -126px\9;}
+.ship-cart .ship-tit i{background-position:-144px -157px;}
+.ship-cart{width:1000px;margin:auto;}
+.ship-tit .view-more,
+.ship-tit .back{float:right;font-size:12px;font-weight:normal;color:#999;text-decoration: underline;}
+.ship-tit .view-more{ font-size:14px;}
+
+/*地址*/
+.address,
+.ship-potion,
+.ship-pay,
+.ship-tab{padding-left:37px;overflow: hidden;position: relative;}
+.address ul{margin-left:-10px;overflow: hidden;margin-top:-10px;}
+.address li{position: relative;width:185px;height:169px;padding:11px 20px;margin-left:10px;border:1px solid #d9d9d9;background: #fff;float:left;margin-top:10px;}
+.address li.on{border:2px solid #fc8100;padding:10px 19px;}
+.address li.on .ads-user i{background-position:-178px -64px;background-position:-178px -63px\9;}
+.address li div{padding-bottom:6px;font-size:14px;}
+.address li .ads-user{color:#333;padding-top: 12px;}
+.ads-user i{position: absolute;width:24px;height:24px;height:25px\9;right:20px;top:10px;background-position:-178px -88px;cursor: pointer;}
+.address li .ads-info,.ads-phone{line-height: 18px;color: #666;}
+.address li .preferred{line-height:16px;color:#999;display: inline;position: absolute;bottom: 10px;left: 19px;width:115px;padding-bottom:0;}
+.address li .edit{line-height:16px;width:70px;color:#666;text-decoration: underline;text-align: right; font-size:14px;position: absolute;right:19px;bottom:10px;}
+.address li.add-ads{width:192px;height:96px;padding-top:86px;background:#efefef;vertical-align: middle;font-size:20px;color:#999;font-weight:bold;text-shadow:0 1px 1px #fff;border:none; cursor:pointer}
+.address li.add-ads em{font-size:34px;vertical-align: top;position: absolute;+padding:13px 0;+top:68px;}
+.address li.add-ads span{display: inline-block;padding-left:20px;+line-height:18px;}
+.ship-ads .con{position: fixed;top:15%;left:32.5%;z-index:99;}
+.ship-ads .con h3{height:30px;font-size:18px;}
+.ship-ads .remember a{padding-left: 0;}
+.ship-ads .default{padding-top: 10px;}
+.ship-ads .cpf-box{display: block;}
+/*地址 end*/
+
+.ship-potion li{padding-bottom:15px;font-size:14px;}
+.ship-potion dl{height:20px;overflow: hidden;color:#666;}
+.ship-potion dl.indent{color:#f42121;}
+.ship-potion dt,dd{float:left;padding-right:28px;}
+.ship-potion dt{min-width:190px;}
+.ship-potion dt label,.indent{font-weight: bold;}
+.ship-potion dt .track{font-weight: normal;}
+.ship-potion dd{min-width:152px;}
+.ship-potion .remember{padding:0 28px 0 0;}
+.ship-potion .indent,
+.ship-potion dl.potion-info{padding-left: 15px;}
+.ship-potion dl.potion-info dt{min-width:132px;padding-right:2px;}
+.check{padding:10px 0 0 16px;}
+.ship-potion dt label{vertical-align: top;}
+.remember input[type=radio]+label{background-position:0 -318px;}
+.remember input[type=radio]:checked+label {background-position: 0 -300px;}
+.dis-ship{height:43px;line-height:43px;margin-left:37px;padding-left:34px;color:#f32f39;font-size:18px;border:1px solid #f32f39;position: relative;}
+.dis-ship i{top:12px;left:10px;}
+/*shipping end*/
+.payment{position: relative;}
+.pay-tit{height:25px;padding-bottom:10px;font-size:14px;color:#666;}
+.pay-tit .pay-hint{float:left;line-height:25px;padding-right:4px;}
+.pay-tit .change{display: inline-block;float:left;padding:0 24px 0 5px;line-height: 25px;background:#f8f8f8;}
+.pay-tit .change span{font-weight: bold;color:#333;}
+.pay-tit .change a{padding-left:18px;font-size:12px;color:#999;text-decoration: underline;}
+/*payment end*/
+
+.chang-confirm{width:386px;padding:20px 0 20px 9px;background:#fff;border:1px solid #d9d9d9;}
+.chang-confirm h3{height:36px;}
+.select-list{+overflow:hidden;}
+.recent-select{display:inline-block;float:left;width:183px;margin-right: 10px;padding-bottom:17px;}
+.recent-select p{height:24px;font-size:14px;}
+.recent-select .divselect{margin-left: 0;margin-right:0;width:181px;}
+.recent-select .divselect cite{width:159px;padding-right:22px;height:26px;line-height:26px;}
+.recent-select .drop-box ul{ max-height:160px; overflow-y:auto;overflow-x:hidden;}
+.ship-tab .myorder-table{width:auto;}
+.myorder-table td:first-child img{width:75px;height:75px;background:#fff url("../images/common/loading/37_37.gif") no-repeat center center;}
+.ship-tab .myorder-table th{text-align: left;}
+.ship-tab .myorder-table td{text-align:left;padding: 10px 0;}
+.ship-tab .myorder-table td:first-child,
+.ship-tab .myorder-table th:first-child{width:437px;padding-left:10px;}
+.ship-tab .myorder-table td:first-child.remember{padding-top: 10px;vertical-align: top;}
+/*.ship-tab .myorder-table td:first-child div{width:390px;}*/
+/*.ship-tab .myorder-table td.remember:first-child div{width:100%;}*/
+.ship-tab .myorder-table .t1 p{padding-left:87px;}
+.ship-tab .myorder-table .t2{width:162px;}
+.ship-tab .myorder-table .t3{width:150px;}
+.ship-tab .myorder-table .t4{width:201px;position: relative;}
+.ship-tab .myorder-table .t4 .t4-price{padding-bottom:4px;}
+.ship-tab .myorder-table .t4 p{line-height:normal;padding: 5px;margin-top: 5px;font-size:12px;border: 1px solid #eb422e;color:#eb422e;border-radius: 5px;background:#fffbfb;display:inline;}
+.ship-tab .myorder-table .total{width:201px;width:230px\9;+width:auto;text-align:right;padding-right:30px;padding-top: 47px;vertical-align: sub;}
+.ship-tab .myorder-table .total s{ text-decoration:none;}
+.ship-tab .myorder-table p span{margin-right:5px;}
+.total .icon-view-dis{color:#999;}
+#Processing{display: none;}
+.method-list .remember {padding-top: 10px}
+.rem-list input[type=checkbox]+label{
+	display: block;
+	float: left;
+	height: 16px;
+	margin-left:43px;
+	padding-left:16px;
+	background: url(../images/common/checkbox.png) no-repeat;
+}
+.rem-list.on input[type=checkbox].method+label,
+.rem-list.on input[type=checkbox]+label{background-position: 0 -16px;}
+.info{padding-left:16px;}
+.remember .msg{line-height:12px;font-size:12px;color:#666;padding-right: 0;padding-top:5px;}
+.remember p{padding-bottom: 0}
+.code{display:block\9;float:left\9;margin-right:5px\9;width:181px;height:26px;line-height:26px;margin-bottom:10px;padding-left:40px;border:1px solid #d9d9d9;background:#fff;}
+.remember p{padding-right: 0;}
+.order-summary tr td:first-child div.tips{display:block;position: relative;color:#e70000;font-size:12px;margin-top:0px;}
+.coupon-info{font-size:12px;color:#666;line-height:16px;padding-top:5px;}
+.coupon-info em{font-weight: bold;color:#fc8100;}
+.order-summary tr td:first-child a.remove{color:#999;text-decoration: underline;padding-left:0;display: block;}
+.myorder-table .total em{padding-left:12px;}
+.myorder-table .total em.gray{color:#999;}
+.myorder-table .total p{line-height: 24px;}
+.myorder-table .total p span{color: #fc8100;}
+.myorder-table .total h3{padding:20px 0;font-size:20px;font-family:helvetica;letter-spacing:-1px;}
+.myorder-table .total h3 span{color:#fc8100;font-size:24px;}
+.place{font-size: 20px;height:50px;margin-right: 0;margin-bottom:10px;}
+.addressPop{ background-color: #fff;border: 1px solid #d9d9d9;padding: 20px 30px;width: 384px;}
+.addressPop h3{ margin-bottom:13px;}
+.addressPop .default{padding-top:10px;}
+.chang-confirm .select-box{ height:26px;}
+.address-table {
+    font-size: 14px;
+}
+.address-table td {
+    padding: 3px 0;
+    vertical-align: top;
+}
+.address-table span {
+    color: #999;
+    margin-left: 10px;
+}
+.address-table span.font12 {
+    font-size: 12px;
+}
+.address-w1 {
+    width: 202px;
+}
+.addressPop .btn-form {
+    margin-top: 10px;
+}
+.select-w {
+    width: 181px;
+}
+.i-w1 {
+    width: 161px;
+}
+.address-table .cpf-box{ display: none;}
+.frm{margin-bottom:10px;overflow: hidden;}
+.frm-check{margin-left:16px;}
+.coupon-checkbox{margin-top:10px;display: inline-block;+margin-left:-8px;position:relative;}
+.coupon-checkbox span{padding-left:2px;position:absolute;left:4px;+left:10px;top:4px;}
+.remember span{text-decoration:none;}
+.remember p{display:none;}
+.rewards-color{color:#666; font-size:12px;}
+
+/*adyen-bank*/
+.bank-info{padding-left:37px;margin-bottom:10px;border-bottom:1px solid #d9d9d9;overflow: hidden;}
+.bank-info p{line-height:20px;padding-bottom:10px;font-size:14px;}
+.bank-info .info-long{width:462px;}
+.bank-btn{text-align: right;padding-top:10px;}
+
+.ship-tit a{display: block;font-size:14px;font-weight:normal;color:#333;}
+
+.rewards-color{color:#666; font-size:12px;}
+input[type="button"].place-dis{ cursor:default; background: #e5e5e5 none repeat scroll 0 0;
+    color: #333;
+    opacity: 0.8;
+    text-decoration: none;
+    text-shadow: 0 1px #fff;}
+/* .frm input[type="checkbox"]:checked + label, 
+.frm input[type="checkbox"][checked="checked"] + label{display:inline-block;} */
+dl.potion-info input[type=checkbox].checks+label, 
+li.potion-info input[type=checkbox].checked+label, 
+.remember input[type=checkbox][checked=checked]+label,
+.remember input[type=checkbox][defaultChecked]+label,
+input[type=checkbox].checked+label,
+.frm input[type=checkbox].check+label {background-position: -287px -287px;}
+
+input[type=radio][checked=checked]+label,
+input[type=radio][defaultChecked]+label,
+input[type=radio].radioed+label{background-position: 0 -300px;}
+.poptips{width:246px; line-height:22px; font-size:14px;margin-top:10px; padding:15px 10px 20px 10px; border:1px solid #ddd; color:#333; background-color:#fff;}
+.poptips .btnorg35{ margin:7px 0px 0px 0px; display: inline-block; font-size:18px;}
+.poptips .cancel{border:0px;text-shadow:0px 0px 0px;}
+.poptips .otherLink{margin-left:10px; text-decoration:underline;color:#999;}
+.poptips .otherLink:hover{color:#FC8100}
+
+.mask{position:fixed;top:0;left:0; background:#000; width:100%; height:100%; opacity:0.3; filter:alpha(opacity=30);z-index:998;display:none;}
+.checkout_mask{position:fixed;top:0;left:0;width:100%; height:100%;z-index:998;display:none;}
+.checkout_mask .mask{display:block;}
+.checkout_mask .loading_img{position: absolute;top: 50%;left: 50%;margin-left: -64px;}
+.ship-potion dl.gray9{color:#999;}

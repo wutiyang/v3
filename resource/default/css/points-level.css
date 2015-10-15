@@ -1,0 +1,52 @@
+.points-tit{line-height: 38px;}
+.points{
+	width:96%;
+	height:132px;
+	padding:10px 2%;
+	border:1px solid #d9d9d9;
+}
+.points p{
+	line-height: 20px;
+	color: #666;
+	font-size: 14px;
+}
+.points h4{
+	line-height: 26px;
+	color: #333;
+}
+.points h4 span{
+	display: inline-block;
+	width:146px;
+	text-align: left;
+}
+.points em{
+	color: #f69200;
+	padding-left: 10px;
+}
+.level{
+	padding-top: 20px;
+	line-height: 26px;
+}
+.level h4{float: left;}
+.level-icon img{
+	padding-left: 10px;
+}
+
+.points-his{line-height: 28px;}
+.his-tab{
+	width:100%;
+	height:auto;
+}
+.his-tab tr{
+	height: 32px;
+	line-height: 32px;
+	border-bottom: 1px solid #dcdbdb;
+}
+.his-tab thead{
+	background: #efefef;
+	text-align: center;
+}
+.his-tab td{
+	width:25%;
+	text-align: center;
+}

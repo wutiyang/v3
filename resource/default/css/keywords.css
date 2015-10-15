@@ -1,0 +1,32 @@
+.words{padding:10px 0 25px 10px;border:1px solid #dfdfdf;margin-bottom:18px;}
+.words h3{font-size:18px;padding-bottom:16px;}
+.words ul{width:1005px;overflow: hidden;}
+.words li{float:left;width:158px;line-height:20px;margin-right:31px;padding-left:12px;}
+.words li a{font-size:12px;color:#666;text-decoration: none;}
+.words li:hover{background:#f3f3f3;}
+
+.words-left{float:left;width:940px;overflow:hidden;}
+.words-left h3{font-size:18px;line-height:37px;margin-bottom:10px;border-bottom:2px solid #444;}
+.words-left dl{padding-bottom:20px;margin-bottom:20px;border-bottom: 1px solid #dfdfdf;overflow:hidden;}
+.words-left dt{width:170px;height:170px;margin-right:9px;float:left;}
+.words-left dd{float:left;width:760px;}
+.words-left dd h4{padding-bottom:6px;font-size:14px;}
+.words-left dd .words-info{height:30px;font-size:12px;color:#999;}
+.words-left dd .words-info a{color:#666;padding-left:16px;text-decoration: underline;}
+.words-left dd .words-msg{line-height:18px;padding-bottom:22px;color:#666;}
+.words-left dd .price{line-height: 30px;}
+.price-o{color:#999;font-size:12px;padding-right:9px} 
+.price-n{padding-right:12px;color:#fc8100;font-size:14px;font-weight:bold;} 
+.words-left .sarve{line-height:18px;font-size:12px;color:#666;}
+.words-right{float:right;width:250px;overflow: hidden;padding-top:1px;}
+.words-related{border:1px solid #dfdfdf;padding-bottom:10px;margin-bottom:10px;}
+.words-related h3{line-height:36px;padding-left:10px;background:#f4f4f4;border-bottom:1px solid #dfdfdf;font-size:18px;}
+.words-related .related li{line-height:18px;padding:5px 4px 5px 10px;}
+.words-related .related li:hover{background:#f4f4f4;}
+.words-slider{width:248px;height:1096px;}
+.slider-list{position: relative;width:100%;height:100%;overflow: hidden;}
+.slider-list ul{position: absolute;top:0;left:39px;overflow: hidden;}
+.slider-list ul li{padding-top:20px;width:170px;margin:0 auto;}
+.slider-list ul li img{width:170px;height:170px;margin-bottom:6px;}
+.slider-list ul li .related-info{line-height:18px;padding-bottom:6px;font-size:12px;color:#666;}
+.related-img{width:250px;height:220px;margin-bottom:10px;display: block;}

@@ -1,0 +1,6 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+2015-08-02 15:25:12 127.0.0.1:{"merchantReference":"2015080200000201","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514385003127196","merchantSig":"E5WS8T4a3PVONiusXw6WcjtaWGM="}
+2015-08-02 15:25:12 127.0.0.1:{"order_code":"2015080200000201","order_status":3}
+2015-08-02 16:09:11 127.0.0.1:{"merchantReference":"2015080200000203","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"REFUSED","pspReference":"8514385029522222","merchantSig":"Sk2J03BssHXZxSVMkffOGrhbWMw="}
+2015-08-02 16:09:11 127.0.0.1:{"order_code":"2015080200000203","order_status":4}

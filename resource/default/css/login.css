@@ -1,0 +1,43 @@
+.loginPage{
+	width:1002px;
+	margin:0 auto 20px;
+	overflow: hidden;
+}
+.login-tit{
+	line-height: 58px;
+	font-size: 18px;
+}
+.login-left{float: left;}
+.login-right{float: right;}
+
+.shop-login h3{
+	height:32px;
+	line-height: 32px;
+	margin-bottom: 12px;
+	background: #efefef;
+	border-bottom: 1px solid #d9d9d9;
+	text-align: center;
+	font-size: 16px;
+	font-family: helvetica;
+}
+.shop-login .success{margin:0 10px;}
+/*forget password*/
+.forgetPage{
+	width:490px;
+	margin:0 auto 30px;
+	overflow: hidden;
+}
+.shop-login .title{
+	padding:8px 22px 4px 10px;
+	line-height: 18px;
+	color: #656565;
+}
+.remember input[type=checkbox].check+label {
+	background-position: -287px -287px \9;
+}
+.shop-menu .remember input[type=checkbox]:checked+label {
+	background-position: -287px -287px;
+}
+.login-right .remember input[type=checkbox]+label{
+	float: none;
+}

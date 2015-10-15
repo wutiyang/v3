@@ -1,0 +1,201 @@
+.main .sidebar{width:210px;background:#fff;}
+.aside-list{border:1px solid #dfdfdf; border-bottom:0px;}
+.aside-list a{padding-left:10px;}
+.aside-list .list-par .level1{display:block;line-height:28px;font-weight: bold;border-top: 1px solid #dfdfdf;border-bottom: 1px solid #dfdfdf;font-size:14px;color:#333;background:#f4f4f4;}
+.aside-list .list-par:faq-info-child .level1{border-top: none;}
+.aside-list .list-par a{text-decoration: none;}
+.aside-list .list-par li a{line-height:30px;color:#666;}
+.aside-list .list-par li:hover{text-decoration: underline;background:#f3f3f3;}
+.aside-list .list-par ul{overflow:hidden;background:#fff;}
+.aside-list .list-par .level1.on{text-decoration: underline;}
+.collapse li.on{background:#f3f3f3;}
+
+.main .content,.wholesale-tit,.wholesale-mean{width:980px;font-family:Arial;}
+.help-tit{line-height:33px;border-bottom:2px solid #333;font-size:18px;}
+.help-info{line-height:18px;padding:4px 0;font-size:12px;color:#666;}
+.help-info a{text-decoration: underline;}
+.help-tab{margin-bottom:21px;overflow: hidden;}
+.help-tab div{width:483px;height:243px;border:1px solid #dfdfdf;}
+.help-tab .tab-lt{float:left;}
+.help-tab .tab-rt{float:right;}
+.help-tab h5{font-size:14px;line-height:32px;text-align:center;border-bottom:1px solid #dfdfdf;color:#2e2e2e;background:#f4f4f4;}
+.help-tab p{line-height:18px;padding:5px 10px;color:#666;}
+.serve{padding-bottom:9px;font-size:12px;color:#666;}
+
+/*affiliate*/
+.affiliate-tit{padding:20px 0 23px 0;font-size:14px;color:#333;}
+.help-info .info-tit{padding-bottom:20px;font-size:14px;color:#333;}
+.help-info .info-tit2{padding-bottom:16px;font-size:18px;color:#333;}
+.help-info h4{padding-top:10px;}
+.help-info p{line-height:18px;color:#666;padding-bottom:18px;}
+.help-info2{}
+.help-info2 h5{padding-bottom:17px;font-size:14px;}
+.help-info2 p{padding-bottom:12px;font-size:12px;color:#666;}
+.help-list{padding-bottom: 4px;}
+.help-list a{display: block;font-size:12px;color:#666;line-height:21px;}
+.help-list .list-tit{padding-top:10px;font-size:14px;olor:#333;font-weight: bold;padding-bottom:15px;}
+.help-img{padding:10px 12px;}
+/*return_policy terms_and_conditions privacy_policy*/
+.privew { font-size:12px; color:#666;}
+.privew .help-info{ padding-top:15px; color:#333;}
+.privew strong{ color:#333;}
+.privew p strong{font-size:14px; font-weight:normal;}
+.privew p strong.title{margin:5px 0px  13px; font-weight:bold; display:block;}
+.privew p{padding: 3px 0;line-height: 20px;}
+.privew .detail{ padding:10px 0px;}
+.privacy-policy .privew p strong{ font-weight:bold; display:block; margin:3px 0px;}
+.privacy-policy .privew p span{color:#333;}
+/*shipping_method_guide*/
+.list-mob{wiedth:450px; color:#666; padding-top:5px;}
+.list-mob p{line-height:16px;}
+.list-mob strong{color:#333; font-size:14px; display:block; margin:13px 0px 15px;}
+/*help*/
+.help .help-list{overflow:hidden; position:relative;}
+.help .help-list ul{margin-left:-20px; overflow:hidden}
+.help .help-list li{ float:left;width:480px; height:131px;  border-bottom:1px solid #dfdfdf;margin-left:20px;}
+.help .help-list li a{ display:block;height:100%;padding-left:10px;}
+.help .help-list li i{background:url(../images/footer/help-icon.png) no-repeat; float:left;}
+.help .help-list li i.icon-1{ width:76px; height:72px; background-position:-8px -8px; margin:30px 24px 0px 0px;}
+.help .help-list li i.icon-2{ width:59px; height:59px; background-position:-124px -8px; margin:43px 24px 0px 0px;}
+.help .help-list li i.icon-3,
+.help .help-list li i.icon-4,
+.help .help-list li i.icon-7,
+.help .help-list li i.icon-8{float:right;}
+.help .help-list li i.icon-3{ width:45px; height:63px; background-position:-217px -8px; margin:29px 6px 0px 39px;}
+.help .help-list li i.icon-4{ width:65px; height:81px; background-position:-310px -8px; margin:15px 0px 0px 10px;}
+.help .help-list li i.icon-5{ width:82px; height:56px; background-position:-8px -111px; margin:42px 48px 0px 0px;}
+.help .help-list li i.icon-6{ width:48px; height:70px; background-position:-129px -111px; margin:29px 14px 0px 0px;}
+.help .help-list li i.icon-7{ width:62px; height:62px; background-position:-217px -110px; margin:35px 29px 0px 13px;}
+.help .help-list li i.icon-8{ width:72px; height:72px; background-position:-314px -111px; margin:42px 10px 0px 45px;}
+.help .help-list li p{line-height:18px; padding-top:57px; color:#333;}
+.help .help-list li a:hover{background-color:#f3f3f3;}
+/*Payment_Method*/
+.paypal,
+.btnorg,
+.input-num{ display:inline-block;}
+.payment .help-info{padding-top:10px;padding-bottom:24px;}
+.payment strong{display:block;padding-bottom:20px;font-size:14px;}
+.payment p,.method{line-height:18px;color:#666;padding-bottom:16px;}
+.payment p a{text-decoration: underline;}
+.payment .payment-btm{font-weight:bold;font-size:14px;color:#333;padding-bottom:0;}
+.payment .payment-btm a{border-bottom:2px solid #b8b8b8;text-decoration: none;color:#333;}
+.payment .account{margin-top:-10px;}
+.payment-pic{ width:554px;height:140px;background:url(../images/footer/payment-method-icon.png) no-repeat;}
+
+.paypal{width:190px; height:33px; line-height:33px; vertical-align:bottom; margin:0px 5px; background:url(../images/footer/payment-method-icon.png) no-repeat -0px -148px;}
+.btnorg{height:33px; line-height:33px;vertical-align:bottom;}
+.choose{padding-left:14px;display: block;padding-bottom:16px;padding-top:6px;}
+.choose span{padding-right:10px;font-size:14px;color:#333;}
+.choose .divselect cite{width:212px;}
+.input-num{position: relative; border:1px solid #ddd;width:218px;padding-right:22px; height:26px; line-height:26px; vertical-align:middle;}
+.input-num i{width:22px;position:absolute;right:0;top:11px;}
+.method ul{width:240px;border-color: #ddd;}
+.payment-tit{padding-bottom:10px;font-size:14px;}
+.payment .rem-list input[type=checkbox]+label{
+    display: block;
+    float: left;
+    height: 16px;
+    margin-left:25px;
+    padding-left:16px;
+    background: url(../images/common/checkbox.png) no-repeat;
+}
+.payment .rem-list input[type=checkbox]:checked+label,
+.payment .rem-list.on input[type=checkbox]+label{background-position: 0 -16px;}
+/*contace-us*/
+.contace-tit{padding:10px 0 18px 0;}
+.con-content{padding-left:10px;overflow: hidden;}
+.con-content .con-left{width:462px;overflow: hidden;float:left;}
+.con-content .con-right{width:462px;overflow: hidden;float:right;}
+.con-content a{text-decoration: underline;}
+.con-content .con-left p,.con-content .con-right p{float:right;text-align:left;}
+.con-content .con-left p{width:422px;}
+.con-content .con-right p{width:420px;}
+.con-content i,.faq i,.del,.fewer{display:inline-block;background:url(../images/common/foot.png) no-repeat;}
+.con-left i{width:32px;}
+.con-left i.con-email{height:19px;background-position:0 0;}
+.con-left i.con-sky{height:26px;background-position:0 -22px;}
+.con-left i.con-fb{height:26px;background-position:0 -51px;}
+.con-right i{width:26px;margin-right:10px;}
+.con-right i.con-map{height:30px;background-position:-36px 0;}
+.con-right i.con-phone{height:24px;background-position:-36px -36px;}
+.con-right i.con-tw{height:26px;background-position:-36px -67px;}
+.con-content{line-height:18px;color:#666;padding-bottom:10px;}
+.con2{padding-bottom:24px;line-height:26px;}
+
+/*FAQ*/
+.faq{padding-top:30px;}
+.faq li{padding-bottom:14px;position: relative;}
+.faq a{font-weight:bold;font-size:14px;color:#333;}
+.faq a:hover{text-decoration: none;}
+.faq i,.fewer{width:15px;height:15px;margin-left:9px;vertical-align: middle;position: relative;cursor: pointer;}
+.content .fewer{background-position:0 -84px;}
+.faq .active i{background-position:-15px -84px;}
+.faq .active .top{display: block;}
+.faq-info p{ padding:10px 0 10px 18px; line-height:18px;font-size:12px; color:#666;font-weight:normal;}
+.top {
+	display: none;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    line-height: 0px;/*为了防止ie下出现题型*/
+    border-bottom: 7px solid #f3f3f3;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    top: 18px;
+    left:-1px;
+}
+.faq-info {
+	display: none;
+    border-radius:8px;
+    -moz-border-radius:8px;
+    -ms-border-radius:8px;
+    -o-border-radius:8px;
+    -webkit-border-radius:8px;
+    background: #f3f3f3;
+    width:932px;
+    margin-top: 9px;
+    left: 3px;
+    top: 26px;
+}
+.faq-tab{padding-top:10px;}
+.faq-info table{width:97%;margin-left:2%;}
+.faq-info td{border:1px solid #333;padding:5px;}
+.faq .active div{display: block;}
+/*wholesale*/
+.wholesale-tit{padding:20px 0 24px 0;font-size:14px;}
+.wholesale-p,
+.wholesale-list li a{font-size:12px;color:#666;}
+.wholesale-list{padding-top:10px;}
+.wholesale-list li{padding-bottom:10;}
+.wholesale-list li a{line-height:18px;}
+.wholesale-mean{padding-top:10px;padding-bottom:34px;font-size:14px;}
+
+.wholesale-flow{height:210px;overflow: hidden;}
+.wholesale-flow div{float:left;}
+.wholesale-flow .email{width:158px;margin-right:5px;}
+.wholesale-flow .flow-tit{text-align: center;height:20px;font-size:14px;}
+.wholesale-flow .flow-msg{line-height:18px;font-size:12px;color:#666;text-align:center;padding-top:10px;}
+.wholesale-flow .flow-img{width:95px;height:95px;margin:auto;}
+.email .flow-img{background:url(../images/footer/email.png) no-repeat;}
+.bargaining .flow-img{background:url(../images/footer/bargaining.png) no-repeat;}
+.pay .flow-img{background:url(../images/footer/pay.png) no-repeat;}
+.transit .flow-img{background:url(../images/footer/transit.png) no-repeat;}
+.receive .flow-img{background:url(../images/footer/receive.png) no-repeat;}
+.arrows{width:32px;height:23px;margin-top:56px;background:url(../images/footer/arrows.png) no-repeat;}
+.wholesale-flow .bargaining,.pay,.transit{width:175px;}
+.wholesale-flow .receive{width:164px;}
+.tab-tit{padding-bottom:20px;font-size:14px;}
+.wholesale-table{width:738px;padding:20px;margin-bottom:20px;border:1px solid #d9d9d9;background:#f5f5f5;}
+.wholesale-table tr{margin-bottom:10px;display:block;}
+.wholesale-table .td-left{width:136px;margin-right:10px;}
+.wholesale-table .td-right .td-input,.sm-input{width:347px;height:35px;border:1px solid #d9d9d9;background:#fff;}
+.wholesale-table .td-right .area,
+.wholesale-table .notes{height:89px;}
+.wholesale-table .notes .td-left{vertical-align: super;}
+.wholesale-tab .error .tips{text-align: right;padding-right:25px;}
+.wholesale-tab .error input[type=text]{background: #fff;}
+.apply-btn{display: block;width:347px;height:35px;}
+.td-right .del{width:7px;height:7px;margin:0 10px;background-position:right 0;cursor: pointer;}
+.td-right .sm-input{width:45px;margin-right:10px;}
+.wholesale-use{height:70px;line-height:20px;color:#666;}
+.msg{line-height:18px;}

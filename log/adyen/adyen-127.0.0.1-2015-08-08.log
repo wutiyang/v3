@@ -1,0 +1,16 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+2015-08-08 11:17:39 127.0.0.1:{"merchantReference":"2015080800000404","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514390038617914","merchantSig":"XCxiMKnWma09Wg5mpLC1AIRq4zE="}
+2015-08-08 11:17:39 127.0.0.1:{"order_code":"2015080800000404","order_status":3}
+2015-08-08 13:44:18 127.0.0.1:{"merchantReference":"2015080800000413","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514390126575545","merchantSig":"RFAdcaJim9AclntCTNJKS3NAivs="}
+2015-08-08 13:44:44 127.0.0.1:{"merchantReference":"2015080800000413","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514390126575545","merchantSig":"RFAdcaJim9AclntCTNJKS3NAivs="}
+2015-08-08 13:44:48 127.0.0.1:{"order_code":"2015080800000413","order_status":3}
+2015-08-08 19:25:14 127.0.0.1:{"merchantReference":"2015080800000482","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514390331146348","merchantSig":"cgklDU2QDMVFdi\/zsOOvuyUymgM="}
+2015-08-08 19:25:19 127.0.0.1:{"order_code":"2015080800000482","order_status":3}
+2015-08-08 19:36:00 127.0.0.1:{"merchantReference":"2015080800000485","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514390337600850","merchantSig":"\/jkXk3WSAid3lz6Mc4+ripdyong="}
+2015-08-08 19:37:09 127.0.0.1:{"merchantReference":"2015080800000485","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514390337600850","merchantSig":"\/jkXk3WSAid3lz6Mc4+ripdyong="}
+2015-08-08 19:37:14 127.0.0.1:{"order_code":"2015080800000485","order_status":3}
+2015-08-08 19:40:11 127.0.0.1:{"merchantReference":"2015080800000486","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514390340102514","merchantSig":"IVhg0Eq97YUrGUjI7j5hwRudf8s="}
+2015-08-08 19:40:15 127.0.0.1:{"order_code":"2015080800000486","order_status":3}
+2015-08-08 19:44:50 127.0.0.1:{"merchantReference":"2015080800000487","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514390342904388","merchantSig":"S9nwppdwIDBpAhQm9I6rXotYixo="}
+2015-08-08 19:44:56 127.0.0.1:{"order_code":"2015080800000487","order_status":3}

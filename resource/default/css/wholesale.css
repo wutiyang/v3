@@ -1,0 +1,31 @@
+/* CSS Document */
+.wholesale{font-size:1.2em; padding-bottom:18px; color:#000;}
+.wholesale .title{ font-size:18px; margin:23px 0px 26px 0px;}
+.wholesale p{line-height:24px; }
+.wholesale .space{ margin-bottom:8px;}
+.wholesale h5{margin:27px 0px 21px 0px;}
+.wholesale .flow{ margin-top:74px; text-align:center}
+.wholesale .flow .flow-cn{width:102px;height:102px; margin:auto;}
+.flow-email,
+.flow-bargaining,
+.flow-pay,
+.flow-transit,
+.flow-receive,
+.arrows{ float:left; }
+.flow-email{width:188px;}
+.flow-email .flow-cn{ background:url(../images/wholesale/email.png) no-repeat;}
+.flow-bargaining{ width:180px;}
+.flow-bargaining .flow-cn{ background:url(../images/wholesale/bargaining.png) no-repeat;}
+.flow-pay{ width:200px;}
+.flow-pay .flow-cn{ background:url(../images/wholesale/pay.png) no-repeat;}
+.flow-transit{ width:194px;}
+.flow-transit .flow-cn{ background:url(../images/wholesale/transit.png) no-repeat;}
+.flow-receive{ width:181px;}
+.flow-receive .flow-cn{ background:url(../images/wholesale/receive.png) no-repeat;}
+.flow-hd{ margin-bottom:11px;}
+.flow-ft{line-height:22px; height:135px; margin-top:3px; color:#666;}
+.arrows{ width:28px; height:26px; margin-top:59px; background:url(../images/wholesale/icon.gif) no-repeat}
+.bargaining{ margin-left:4px;}
+.space-pay{margin-right:-10px}
+.space-transit{margin-left:-10px; margin-right:-7px;}
+.space-receive{margin-left:-7px;}

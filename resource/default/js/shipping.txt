@@ -1,0 +1,19 @@
+
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => airmail
+                    [selected] => 1	//	是否选中
+                    [day] => 10-20 working days
+                    [tips] => 
+                    [track] => 0//是否选中track，-1：表明没有track，0：表明有track但是没有选中，1：有且选中track
+                    [trackTitle] => Track my package
+                    [available] => 1	//该物流方式是否可以用（1：可用 0：不可用）
+                    [price] => p. 0.00
+                    [trackPrice] => +p.94.29
+                    [single_price] => 0
+                    [single_trackprice] => 94.29
+                    [base_price] => 0
+                    [base_trackprice] => 0
+                    [true_trackprice] => 0
+                )

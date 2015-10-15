@@ -1,0 +1,5 @@
+<img src="<?php echo RESOURCE_URL ?>images/common/loading/60_60.gif" width="1" height="1" class="hide" />
+<script src="<?php echo RESOURCE_URL ?>js/lang/<?php echo $language_code ?>.js"></script>
+<script src="<?php echo RESOURCE_URL ?>js/common/ec.base.js"></script>
+</body>
+</html>

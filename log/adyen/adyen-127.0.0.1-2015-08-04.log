@@ -1,0 +1,13 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+2015-08-04 11:02:29 127.0.0.1:{"merchantReference":"2015080400000237","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514386573516032","merchantSig":"mz0ZcAKZXq4kPwQAbVUE3w1ifQY="}
+2015-08-04 11:02:29 127.0.0.1:{"order_code":"2015080400000237","order_status":3}
+2015-08-04 17:41:35 127.0.0.1:{"merchantReference":"2015080400000246","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514386812962880","merchantSig":"AxB0aU53Q3+btwUy0KXUYjeIdcI="}
+2015-08-04 17:42:56 127.0.0.1:{"merchantReference":"2015080400000246","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514386812962880","merchantSig":"AxB0aU53Q3+btwUy0KXUYjeIdcI="}
+2015-08-04 17:42:56 127.0.0.1:{"order_code":"2015080400000246","order_status":3}
+2015-08-04 17:54:41 127.0.0.1:{"merchantReference":"2015080400000247","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514386820828040","merchantSig":"IA747sgjoeK\/Lriu3zB4Mt7olO8="}
+2015-08-04 17:54:41 127.0.0.1:{"order_code":"2015080400000247","order_status":3}
+2015-08-04 18:02:27 127.0.0.1:{"merchantReference":"2015080400000250","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"visa","authResult":"AUTHORISED","pspReference":"8514386825480896","merchantSig":"3pnirxSeM07txWY1bJuNeesgJEk="}
+2015-08-04 18:02:27 127.0.0.1:{"order_code":"2015080400000250","order_status":3}
+2015-08-04 20:43:09 127.0.0.1:{"merchantReference":"2015080400000258","skinCode":"h2zwU6F6","shopperLocale":"en_US","paymentMethod":"bankTransfer_IBAN","authResult":"PENDING","pspReference":"8514386921859050","merchantSig":"cVlL99bcoGJORkHlULb+O\/AAmeI="}
+2015-08-04 20:43:09 127.0.0.1:{"order_code":"2015080400000258","order_status":2}

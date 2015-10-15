@@ -1,0 +1,10 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+2015-09-14 11:21:05 :[order] ORDERID:#2015091400000707 - EMAIL:704819236@qq.com - EID:258019 - ERROR:OK
+
+2015-09-14 12:05:22 :[order] ORDERID:#2015091400000716 - EMAIL:704819236@qq.com - EID:258019 - ERROR:OK
+
+2015-09-14 16:31:10 :[order] ORDERID:#2015091400000729 - EMAIL:paypaltest@adyen.com - EID:258019 - ERROR:OK
+
+2015-09-14 18:21:46 :[order] ORDERID:#2015091400000740 - EMAIL:paypaltest@adyen.com - EID:258019 - ERROR:OK
+

@@ -1,0 +1,6 @@
+/*banner*/
+.found{font-family: helvetica;}
+.banner{position: relative;padding:50px 0px;text-align:center;}
+.banner-con{ display:inline-block;width:580px; text-align:left; font-size:24px; color:#333; vertical-align:middle; margin-left:17px; }
+.banner-con p{line-height:30px;}
+.banner-con a{font-size:16px; color:#fc8100; text-decoration:underline; line-height:30px;}

@@ -1,0 +1,114 @@
+/* ¶Ô»°¿ò
+-------------------------------------------------------------- */
+.ol_box_mask {
+	position:fixed!important;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:499;
+	opacity: 0.4; 
+	filter:alpha(opacity:40);
+	background-color:#000; 
+	visibility: visible;
+	}
+	
+.ol_box {
+	background-color:#FFF;
+	overflow:visible;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+	border:5px #fff solid;
+	}
+	.ol_box div{
+		overflow:visible;
+		}
+	.ol_box .box-header {
+		position:relative;
+		border-bottom:4px rgb(134,4,7) solid;
+		background-position:0 2px;
+		
+		}
+		.ol_box .box-tl,
+		.ol_box .box-tr {
+			position:absolute;
+			width:2px;
+			height:4px;
+			font-size:1px;
+			line-height:1px;
+			top:30px;
+			}
+		.ol_box .box-tl {
+			background-position:0 -28px;
+			left:0;
+			}
+		.ol_box .box-tr {
+			background-position:right -28px;
+			right:0;
+			}
+		.ol_box .box-tc {
+			cursor:move;
+			height:28px;
+			line-height:28px;
+			border:1px solid #C52525;
+			background-color: #C52525;
+			background-position: center 0;
+			}
+		.ol_box .box-cl,
+		.ol_box .box-cr{
+			display:none;
+			}
+		.ol_box .box-cc{
+			vertical-align:top;
+			}
+		.ol_box .box-title {
+			font-size:14px;
+			font-weight:700;
+			color:#FFF;
+			margin-left:14px;
+			} 
+		.ol_box .box-close {
+			display:block;
+			height:11px;
+			padding-left:12px;
+			background-position:-148px 0;
+			line-height:1px;
+			position:absolute;
+			right:10px;
+			top:9px;
+			
+			}
+		.ol_box .box-close:after{content:'x'; color:#fff;}
+	.ol_box .box-content {
+		clear:both;
+		border:1px solid #EEE;
+		border-top:0 none;
+		padding:10px;
+		}
+		.ol_box .box-loading {
+			background-position:center center;
+			}
+
+.ol_box_2 {
+	border:1px solid #FFC16B;
+	background-color:#FFFFE9;
+	box-shadow: 5px 0px 8px rgba(0, 0, 0, 0.3);
+	}
+	.ol_box_2 .box-header {
+		position:relative;
+		}
+		.ol_box_2 .box-close {
+			display:block;
+			height:11px;
+			padding-left:11px;
+			background-position:-127px 0;
+			line-height:1px;
+			position:absolute;
+			right:10px;
+			top:8px;
+			}
+		.ol_box_2 .box-cl,
+		.ol_box_2 .box-cr{
+			display:none;
+			}
+		.ol_box_2 .box-cc{
+			vertical-align:top;
+			}

@@ -1,0 +1,186 @@
+.review-tit{
+	height: 35px;
+	line-height: 35px;
+	font-size:18px;
+}
+.review-tit .hint{
+	padding-left:18px;
+	font-weight:normal;
+	font-size:14px;
+	color:#333;
+}
+.review-tit .describe{
+	float:none;
+	background:url(../images/product/icon.png) no-repeat -105px -99px;
+}
+.review-tit .describe:hover{position:relative;}
+.review-tit .describe:hover .popBox{display:block;}
+.review-tit .describe .popBox { position:absolute;top:20px;left:5px; width:210px;margin-left:0; line-height:17px;display:none; text-align: left;font-size: 12px;font-weight: normal;z-index:99;}   
+.review-tit .describe .popBox .con{width:210px;border:#ddd solid 1px; border-radius:2px; background:#fff;box-shadow: 0px 0 1px rgba(0,0,0,.1); padding:10px;font-size:12px;color:#666;}
+@-moz-document url-prefix(){.review-tit .describe .popBox .con{width:215px;}}
+.tab-tit{
+	border:1px solid #d9d9d9;
+	height:32px;
+	width:300px;
+	margin-bottom: 10px;
+}
+.tab-tit a{
+	display: block;
+	float: left;
+	width:50%;
+	line-height: 32px;
+	text-align: center;
+	color: #333;
+	background: #f5f5f5;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+}
+.tab-tit a.on{
+	color: #fff;
+	background: #f69200;
+}
+/* write a review start */
+.write-rev{}
+.write-list{
+	border-bottom:1px solid #ececec;
+	margin-bottom: 18px;
+	padding-bottom: 18px;
+	overflow: hidden;
+}
+.write-list:last-child{
+	border-bottom: 0;
+}
+.write-list .list-img{
+	width:138px;
+	height:138px;
+	border: 1px solid #e1e1e1;
+	margin-right: 10px;
+	float: left;
+}
+.write-list .list-info{
+	float: right;
+	width: 84%;
+}
+.list-info .intro{
+	overflow: hidden;
+}
+.intro div{
+	line-height: 16px;
+	width:80%;
+	float: left;
+}
+.intro p{
+	float: right;
+	color: #999;
+}
+.list-info .size{
+	color: #666;
+	padding:6px 0;
+}
+.list-info .size em{padding-right: 8px;}
+.remark{}
+.remark p{margin-bottom:5px;position: relative;padding-left:68px;}
+.remark label{
+	width:68px;
+	height:30px;
+	display: inline-block;
+	line-height: 30px;
+	text-align: left;
+	font-size: 14px;
+	position: absolute;
+	left:0;
+	top:0;
+}
+.remark label i{
+	background: url(../images/wish-list/icon-sns.png) no-repeat;
+	display: inline-block;
+}
+.remark label i{
+	background-position: -37px -39px;
+	width:7px;
+	height:10px;
+}
+/* error start*/
+/*.remark .error-part{display: none;}*/
+.overflow{
+	float: right;
+	padding-right: 6%;
+	line-height: 30px;
+	color: #e70000;
+}
+.remark .error-tit{
+	vertical-align: bottom;
+	color: #e70000;
+	padding-left: 6px;
+	display: none;
+}
+.error input.title-it,
+.error textarea.review-it{
+	border-color:#e70000;
+}
+.error .form-tit{
+	display:block;
+	padding-left:0;
+	line-height:30px;
+}
+/* error end*/
+.remark .title-it{
+	width:400px;
+	height:28px;
+	border:1px solid #e1e1e1;
+}
+.remark .review-it{
+	width:598px;
+	border:1px solid #e1e1e1;
+}
+.mess{float: left;}
+.tomit{
+	display: inline-block;
+	width: 89%;
+}
+.tomit .sub{
+	height:28px;
+	float: left;
+	display: inline-block;
+	padding: 0 18px;
+	vertical-align: top;
+	border:1px solid #bbb;
+	border-radius: 3px;
+	color: #333;
+	text-shadow: 1px 1px #fff;
+    background: -moz-linear-gradient(top, #f9f9f9 0%, #e8e8e8 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9f9f9), color-stop(100%,#e8e8e8));
+    background: -webkit-linear-gradient(top, #f9f9f9 0%,#e8e8e8 100%);
+    background: -o-linear-gradient(top, #f9f9f9 0%,#e8e8e8 100%);
+    background: -ms-linear-gradient(top, #f9f9f9 0%,#e8e8e8 100%);
+    background: linear-gradient(to bottom, #f9f9f9 0%,#e8e8e8 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9f9f9', endColorstr='#e8e8e8',GradientType=0 );
+    font-family: arial;
+}
+.tomit em{
+	float: right;
+	padding-right: 10%;
+	color: #c2c2c2;
+}
+.success{
+	line-height: 18px;
+	color: #91bf00;
+	font-size: 14px;
+	font-weight: bold;
+}
+/* write a review end */
+/* review start*/
+.rat{padding-bottom: 10px;}
+.rat .error-tit{vertical-align:top;}
+.rat label{
+	font-size: 14px;
+    font-weight: bold;
+}
+.evaluate{
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	line-height: 20px;
+}
+/* review end*/

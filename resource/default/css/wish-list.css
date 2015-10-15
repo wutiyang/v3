@@ -1,0 +1,121 @@
+.wish-tit{
+	height: 35px;
+	line-height: 35px;
+}
+.wish-tit h3{
+	float: left;
+}
+.wish-tit .head-sns{
+	float: right;
+}
+.head-sns .share{
+	line-height: 35px;
+	float: left;
+	text-decoration: none;
+	font-size: 14px;
+	color: #2d72cc;
+}
+.head-sns .img,
+.ab-confirm i{
+	width:24px;
+	height:24px;
+	display: inline-block;
+	background: url(../images/wish-list/icon-sns.png) no-repeat 0 0;
+	margin-top: 6px;
+	margin-left: 10px;
+}
+.head-sns .fb{
+	background-position: -28px 0;
+}
+.head-sns .tw{
+	background-position: -56px 0;
+}
+
+/*list*/
+#wish-list .list{margin-bottom: 26px;}
+.list-pro{
+	padding: 20px 0;
+	border-bottom:1px solid #ececec;
+	position: relative;
+	overflow: hidden;
+}
+.list-pro:last-child{border-bottom:0;}
+.list-pro .list-img{
+	width:138px;
+	height:138px;
+	border: 1px solid #e1e1e1;
+	margin-right: 10px;
+	display: block;
+	float: left;
+}
+.list-pro .list-info{
+	float: right;
+	width:84%;
+}
+.intro{overflow: hidden;}
+.intro h5{
+	line-height: 16px;
+	width:80%;
+	float: left;
+}
+.intro span{
+	float: right;
+	color: #999;
+}
+.list-info .size{
+	color: #666;
+	padding:6px 0;
+}
+.tocart-btn input,.tocart-btn a{
+	padding:0px 22px;
+	height:24px;
+	margin-right:10px;
+	border-radius:3px;
+	float: left;
+	font-size:14px;
+}
+.tocart-btn .add{ display: inline-block; height:22px;line-height: 22px; vertical-align: middle; font-weight: bold; width:auto;padding:0px 10px; color:#a16e09; background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #f5dc5d 0%, #f5c748 100%) repeat scroll 0 0;
+    border: 1px solid #d7a33e;
+    color: #a16e09;
+    text-shadow: 1px 0 #fff;}
+.tocart-btn .add:hover{text-decoration: none;}
+.ab-confirm,
+.del-confirm{
+	width:308px;
+	height:118px;
+	border:1px solid #d9d9d9;
+	padding:0 18px;
+	position: absolute;
+	left:40%;
+	bottom:8px;
+	background-color: #fff;
+}
+.ab-confirm h3{
+	height:54px;
+	line-height: 54px;
+	color: #f69200;
+}
+.del-confirm h4{
+	padding:10px 0;
+	line-height: 20px;
+	color: #000;
+}
+.ab-confirm h3 i{
+	background-position:0 -26px;
+	margin-left: 0; 
+}
+.ab-confirm .view,
+.ab-confirm .cancel,
+.del-confirm .view,
+.del-confirm .cancel{
+	width:114px;
+	height:32px;
+	line-height: 32px;
+	display: inline-block;
+	margin-right: 10px;
+	border-radius:3px;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+}
+#Pop button{width:112px;}
